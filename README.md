@@ -214,7 +214,7 @@ This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ## 👨‍💻 Developer
 
-**Biruk** — Frontend / Full-Stack Web Developer
+**Biruk** — Frontend /Backend / Full-Stack Web Developer
 
 - GitHub: [@birukb1152-dot](https://github.com/birukb1152-dot)
 - Project: [MoodFlix](https://github.com/birukb1152-dot/mood-movie-finder)
