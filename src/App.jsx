@@ -4,6 +4,7 @@ import Favorites from "./pages/Favorites";
 import MovieDetails from "./pages/MovieDetails";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
+import ScrollToTop from "./components/ScrollToTop";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       </div>
 
       <Footer />
+      <ScrollToTop />
     </div>
   );
 };
