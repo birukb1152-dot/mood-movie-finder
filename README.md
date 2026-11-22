@@ -16,7 +16,7 @@
   <a href="https://birukb1152-dot.github.io/mood-movie-finder/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_MoodFlix-blue?style=for-the-badge" alt="Live Demo" />
   </a>
-  <a href="https://github.com/biruk1152-dot/mood-movie-finder">
+  <a href="https://github.com/birukb1152-dot/mood-movie-finder">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repository" />
   </a>
 </p>
